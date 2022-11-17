@@ -40,7 +40,7 @@
 #### ♢ Click on This Drop-down and get more details
 <br>
 <details>
-  <summary><b>Deploy on Heroku:</b></summary>
+  <summary><b>Deploy on Heroku/Koyeb:</b></summary>
 
 
 1. Fork This Repo
