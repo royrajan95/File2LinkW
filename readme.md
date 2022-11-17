@@ -55,7 +55,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
 
 <br>
-
+### 💜 Koyeb
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/royrajan95/File2LinkW&branch=main&name=File2Link)
 
