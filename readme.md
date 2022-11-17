@@ -57,6 +57,8 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 <br>
 
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/royrajan95/File2LinkW&branch=main&name=File2Link)
+
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
 <details>
